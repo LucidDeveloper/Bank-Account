@@ -1,4 +1,4 @@
-# BankAccount
+# Bank Account
 * Coding Dojo Assignment: Object Oriented Programming in Python
 
 # Objectives: 
